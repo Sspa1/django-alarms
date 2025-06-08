@@ -1,0 +1,8 @@
+djangorestframework;
+Django;
+django-filter;
+psycopg2;
+psycopg2-binary;
+dj-database-url;
+gunicorn;
+python-decouple;
